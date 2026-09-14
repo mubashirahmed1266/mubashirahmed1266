@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mubasher Ahmed 👋
 
-<!--
-**mubashirahmed1266/mubashirahmed1266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I’m a Computer Science student passionate about web development. Currently building responsive and user-friendly websites while learning JavaScript and moving toward full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+
+## 🚀 Current Focus
+
+- Improving JavaScript
+- Building real-world web projects
+- Learning modern front-end development
+- Moving toward full-stack development
+
+
