@@ -2,7 +2,7 @@
 
 ### Front-End Developer | Aspiring Full-Stack Developer
 
-I’m a Computer Science student passionate about web development. Currently building responsive and user-friendly websites while learning JavaScript and moving toward full-stack development.
+I’m a Computer Science student passionate about web development. Currently building responsive and user-friendly websites while learning JavaScript and React.js and moving toward full-stack development.
 
 ## 🛠️ Technologies
 
@@ -10,6 +10,7 @@ I’m a Computer Science student passionate about web development. Currently bui
 - CSS
 - Tailwind CSS
 - JavaScript
+- React
 
 ## 🚀 Current Focus
 
